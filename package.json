@@ -4,15 +4,14 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "node server.js",
+    "dev": "next",
     "build": "next build",
-    "start": "NODE_ENV=production node server.js",
+    "start": "next start",
     "now-build": "echo 'Built on Travis CI'"
   },
   "author": "Wasuwat Limsuparhat",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.3",
     "next": "^6.0.3",
     "npm": "^6.1.0",
     "react": "^16.4.0",
