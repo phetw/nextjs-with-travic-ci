@@ -1,0 +1,11 @@
+{
+    "files": [
+        ".next",
+        "server",
+        "static",
+        "package.json"
+    ],
+    "scripts": {
+        "now-build": "echo 'Built on Travis CI'"
+    }
+}
