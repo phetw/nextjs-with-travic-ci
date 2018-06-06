@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "now-build": "echo 'Built on Travis CI'"
   },
   "author": "Wasuwat Limsuparhat",
   "license": "ISC",
