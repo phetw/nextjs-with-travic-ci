@@ -3,6 +3,7 @@
         ".next",
         "server",
         "static",
-        "package.json"
+        "package.json",
+        "server.js"
     ]
 }
